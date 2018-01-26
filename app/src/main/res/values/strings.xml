@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Qwixx</string>
+    <string name="game_description">Qwixx is a quick-playing dice game in which everyone participates,
+        no matter whose turn it is. Each player has a scoresheet with the numbers 2-12 in rows of red
+        and yellow and the numbers 12-2 in rows of green and blue.\n\n
+    To score points you want to mark off as many numbers as possible, but you can mark off a number only if it\'s to the right
+        of all marked-off numbers in the same row.\n\n Players: <b>2-5</b>   Playing Time: <b>15 Min</b>  Age: <b>8+</b>
+        \n\n All rights belong to Gamewright @ Application is developed by P. Zhelev
+    </string>
+
+    <string name="rules"> QWIXX - RULES\n\n
+        The active player throws with all
+six dice. The following two actions are now carried out one after the other: first the
+first action and only then the second one.\n\n
+1.) The active player adds the pips of the two white dice
+together and says aloud, and in a clear voice, the sum that
+thereby results. Each player may then (but is not obliged
+to!) cross out the number that the active player has spoken
+out in any colour-row of his choosing.\n\n
+    2.) The active player (but not the others!) may then (but
+is not obliged to!) add together the pips shown on just
+one white dice together with the pips shown on just one
+coloured dice of his choosing and cross out the number
+corresponding to this sum in the colour-row corresponding
+to the colour of the dice chosen. \n\n
+        Very important: If the active player crosses out a number neither in the first nor
+in the second action, he must make a cross in the column “Misthrows” (Fehlwürfe
+je -5). The non-active players do not need to mark a misthrow, regardless of
+whether they have chosen to cross out a number or not.\n\n
+        FINISHING A ROW \n\n
+        If a player wishes to cross out the number at the extreme right end of a colour-row
+(red 12, yellow 12, green 2, blue 2) he must first have made at least five crosses
+in the colour-row in question. If he makes a cross on the number on the extreme
+right, then he should also make a cross on the field directly next to it which shows
+a lock symbol. This latter cross will also be counted in the final calculation of total
+crosses! This colour-row is now finished and closed off for all the players and no
+more crosses can be made in this colour in any of the subsequent rounds. The dice
+of the colour corresponding to it is immediately removed from the game and is no
+longer needed. \n\n
+        The game ends immediately as soon as someone has marked his fourth misthrow.
+It also ends immediately as soon as two colour-rows have been completed and
+closed off (regardless by which players) and dice of two colours have consequently
+been removed from the game.
+
+    </string>
+
+    <color name="orange">#F17117</color>
+    <color name="orangePrimaryDark">#d36013</color>
+</resources>
